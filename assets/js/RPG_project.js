@@ -361,7 +361,7 @@ class weaponRepository {
     giveWeapons() {
         this._weapons.push(new Weapon('sword', 10, 2, 2));
         this._weapons.push(new Weapon('dagger', 5, 4, 1));
-        this._weapons.push(new weapon('longsword', 20, 1, 3));
+        this._weapons.push(new Weapon('longsword', 20, 1, 3));
         this._weapons.push(new Weapon('axe', 17, 1, 2));
     }
 }

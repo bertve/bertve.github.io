@@ -83,6 +83,10 @@
 		display: block;	
 	}
 
+	#dropspotLogo {
+		width: 300px;
+	}
+
 	#soundcloudContainer{
 		margin: 0 25%;
 	}
